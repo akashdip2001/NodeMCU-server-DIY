@@ -107,7 +107,7 @@ String getContentType(String filename) {
   return "text/plain";
 }
 ```
-### use custom folder 📂 ⬆️
+<h1> use custom folder 📂 ⬆️ </h1>
 
 ```cpp
 #include <ESP8266WiFi.h>
@@ -208,7 +208,8 @@ Your website should now be accessible via the NodeMCU! Make sure to replace `"yo
 
 -----------
 
-### Make it portable using 3.7v battery 🔋+ Dynamic DNS
+<h1> Make it portable using 3.7v battery 🔋+ Dynamic DNS </h1>
+
 
 To make NodeMCU-based website portable and accessible over the internet,follow these steps:
 
@@ -348,7 +349,7 @@ By following these steps, NodeMCU should be able to host my website and make it 
 
 ----------
 
-### No router - use MIFI (4G LTE module)
+<h1> No router - use MIFI (4G LTE module) </h1>
 
 To make your NodeMCU (ESP8266) server portable and accessible over the internet without relying on a fixed router setup, you'll need a way to provide both power and mobile internet connectivity. Here are the components and steps required to achieve this:
 
@@ -481,7 +482,7 @@ By following these steps, you can create a portable NodeMCU server setup that is
 
 ----------
 
-### use Mobile Hotspot - wifi
+<h1> use Mobile Hotspot - wifi </h1>
 
 To create a portable NodeMCU server that uses your mobile WiFi hotspot for internet access and is accessible to all internet users, you need to follow these steps. Additionally, I'll explain how to use a Dynamic DNS (DDNS) service to provide a memorable hostname instead of an IP address.
 
